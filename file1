@@ -1,0 +1,6 @@
+#include<iostream.h>
+using namespace std
+int main()
+{cout<<"Just my first project on github";
+cout<<"\nFeeling overwhelmed";
+}
